@@ -21,4 +21,4 @@ Este proyecto es una aplicación web simple y divertida que simula el clásico j
 
 ---
 
-Gracias a cada uno de los tutores , por la oprtunidad de mejorar mis habilidades y darme mas herramientas para mi futuro, reamente gracias!. 
+Gracias a cada uno de los tutores , por la oprtunidad de mejorar mis habilidades y darme mas herramientas para mi futuro, realmente gracias!. 
